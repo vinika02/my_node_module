@@ -1,0 +1,53 @@
+{
+  "_from": "concatenate@0.0.2",
+  "_id": "concatenate@0.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-C0nW6MQQR9dyjNyNYqCGYjOXtJ8=",
+  "_location": "/concatenate",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "concatenate@0.0.2",
+    "name": "concatenate",
+    "escapedName": "concatenate",
+    "rawSpec": "0.0.2",
+    "saveSpec": null,
+    "fetchSpec": "0.0.2"
+  },
+  "_requiredBy": [
+    "/laravel-mix"
+  ],
+  "_resolved": "https://registry.npmjs.org/concatenate/-/concatenate-0.0.2.tgz",
+  "_shasum": "0b49d6e8c41047d7728cdc8d62a086623397b49f",
+  "_spec": "concatenate@0.0.2",
+  "_where": "/home/ptbcsisi/laravel/node_modules/laravel-mix",
+  "author": {
+    "name": "Stephen Mathieson",
+    "email": "me@stephenmathieson.com"
+  },
+  "bugs": {
+    "url": "https://github.com/stephenmathieson/node-concatenate/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "globs": "^0.1.2"
+  },
+  "deprecated": false,
+  "description": "concatenate files",
+  "devDependencies": {
+    "jshint": "1.0.0",
+    "mocha": "latest",
+    "rimraf": "latest",
+    "should": "latest"
+  },
+  "homepage": "https://github.com/stephenmathieson/node-concatenate#readme",
+  "keywords": [],
+  "main": "index",
+  "name": "concatenate",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/node-concatenate.git"
+  },
+  "version": "0.0.2"
+}

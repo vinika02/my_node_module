@@ -1,0 +1,70 @@
+{
+  "_from": "img-loader@^2.0.0",
+  "_id": "img-loader@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-cD5D+zzIDvVPyX9nmz6+GL20BfpRUKUEXFur9IPeUC8/LRJT/PQ3YJVyKelIum8R5rCVZXgSFB0ccpsnS4IyAQ==",
+  "_location": "/img-loader",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "img-loader@^2.0.0",
+    "name": "img-loader",
+    "escapedName": "img-loader",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "/laravel-mix"
+  ],
+  "_resolved": "https://registry.npmjs.org/img-loader/-/img-loader-2.0.1.tgz",
+  "_shasum": "de8f80aa5e3222fa1eb4c8c3bc3d41e5d8dd7c78",
+  "_spec": "img-loader@^2.0.0",
+  "_where": "/home/ptbcsisi/laravel/node_modules/laravel-mix",
+  "author": {
+    "name": "Andy VanWagoner",
+    "email": "thetalecrafter@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/thetalecrafter/img-loader/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "imagemin": "^5.3.1",
+    "imagemin-gifsicle": "^5.2.0",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-optipng": "^5.2.0",
+    "imagemin-pngquant": "^5.0.1",
+    "imagemin-svgo": "^6.0.0",
+    "loader-utils": "^1.1.0"
+  },
+  "deprecated": false,
+  "description": "Image minimizing loader for webpack",
+  "devDependencies": {
+    "mocha": "^5.0.0",
+    "safe-buffer": "^5.1.1",
+    "standard": "^10.0.1"
+  },
+  "homepage": "https://github.com/thetalecrafter/img-loader",
+  "keywords": [
+    "image",
+    "imagemin",
+    "image-loader",
+    "optimize",
+    "minify",
+    "webpack",
+    "webpack-loader"
+  ],
+  "license": "MIT",
+  "name": "img-loader",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thetalecrafter/img-loader.git"
+  },
+  "scripts": {
+    "pretest": "standard",
+    "test": "mocha __tests__/*.spec.js"
+  },
+  "version": "2.0.1"
+}
